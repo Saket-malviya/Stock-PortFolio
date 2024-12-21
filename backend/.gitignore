@@ -1,0 +1,27 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# Visual Studio
+.vs/
+*.ncrunch*
+*.dotCover
+
+# Local development settings
+appsettings.Development.json
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.idea/
+*.sln.iml
